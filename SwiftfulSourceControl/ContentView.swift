@@ -5,6 +5,26 @@
 //  Created by Philipp Geueke on 07.01.25.
 //
 
+
+/*
+ COMMIT MESSAGES
+ 
+ NEW FEATURE: [Feature] Description of the feature
+ 
+ BUG IN PRODUCTION: [Patch] Description of patch
+ 
+ BUG NOT IN PRODUCTION: [Bug] Description of the Bug
+ 
+ MUNDANE TASKS: [Clean] Description of changes
+ 
+ RELEASE: [Release] Description of Release
+ 
+ 
+ 
+ 
+ 
+ */
+
 import SwiftUI
 
 struct ContentView: View {
