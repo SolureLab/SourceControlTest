@@ -7,6 +7,12 @@
 
 
 /*
+ Clone = Copying the Repo locally
+ Commit = We save a checkpoint on our current branch
+ Staging = Prepare changes for a commit
+ Stash = Save changes for later 
+ 
+ 
  COMMIT MESSAGES
  
  NEW FEATURE: [Feature] Description of the feature
