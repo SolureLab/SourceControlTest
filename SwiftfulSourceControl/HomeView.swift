@@ -20,7 +20,7 @@ struct HomeView: View {
         }
         
         VStack{
-            Text("Swiftful Thinking 2!")
+            Text("Swiftful 2!")
             Text("Screen 2!")
             Text("Screen 2!")
             Text("Screen 3!")
