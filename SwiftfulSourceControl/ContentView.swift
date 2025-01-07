@@ -10,7 +10,9 @@
  Clone = Copying the Repo locally
  Commit = We save a checkpoint on our current branch
  Staging = Prepare changes for a commit
- Stash = Save changes for later 
+ Stash = Save changes for later
+ Push = Upload local commits to remote repo
+ Pull = Fetch remote commits to local repo
  
  
  COMMIT MESSAGES
