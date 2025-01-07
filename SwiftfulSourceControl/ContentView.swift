@@ -19,12 +19,6 @@
  
  MUNDANE TASKS: [Clean] Description of changes
  
- 
- 
- 
- 
- 
- 
  */
 
 import SwiftUI
@@ -44,6 +38,7 @@ struct ContentView: View {
             .background(Color.green)
             .padding()
             
+            Rectangle()
             
         }
         .padding()
