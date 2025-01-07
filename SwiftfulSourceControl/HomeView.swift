@@ -12,7 +12,7 @@ struct HomeView: View {
     
     var body: some View {
         ZStack{
-            Text("Hi 2!")
+            Text("Hi!")
             Text("Screen 2!")
             Text("Screen 2!")
             Text("Screen 2!")
